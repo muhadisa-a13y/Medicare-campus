@@ -1,9 +1,9 @@
 # Medicare-campus
-**Medicare Campus**is a student‑focused healthcare application designed to bridge the gap between busy academic schedules and essential medical support.
+**Medicare Campus** is a student‑focused healthcare application designed to bridge the gap between busy academic schedules and essential medical support.
 Many students struggle to find time for physical visits to doctors or counselors due to heavy workloads, lifestyle challenges, and study pressures.
 This app provides a safe, accessible, and private online hospital experience tailored to their needs.
 
-  ✨ Key Features
+ ## ✨ Key Features
  **Student Registration**  
   Simple onboarding process for students to create their accounts and access healthcare services.
  **Choose Your Counselor/Doctor**  
@@ -35,5 +35,5 @@ Provides **flexibility** for those with tight schedules.
 Encourages **mental and physical wellness** through regular checkups.  
 Creates a private, hospital‑like environment
 
-🌍 Vision
+## 🌍 Vision
 Medicare Campus is more than just an app — it’s a movement to prioritize student health. By combining technology with compassion, we aim to make healthcare accessible, personalized, and stigma‑free for every student.
