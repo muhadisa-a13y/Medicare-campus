@@ -1,5 +1,5 @@
-# Medicare-campus
-**Medicare Campus** is a student‑focused healthcare application designed to bridge the gap between busy academic schedules and essential medical support.
+# Mindcare Student Health
+**Mindcare Student Health** is a student‑focused healthcare application designed to bridge the gap between busy academic schedules and essential medical support.
 Many students struggle to find time for physical visits to doctors or counselors due to heavy workloads, lifestyle challenges, and study pressures.
 This app provides a safe, accessible, and private online hospital experience tailored to their needs.
 
@@ -29,11 +29,11 @@ This app provides a safe, accessible, and private online hospital experience tai
  **Chat online** to discuss health concerns or book an appointment.  
  **Receive reminders** every 3 months to revisit your health status.  
 
-  ## 🎯 Why Medicare Campus?
+  ## 🎯 Why Mindcare Student Health?
 Empowers students to **seek help without hesitation**.  
 Provides **flexibility** for those with tight schedules.  
 Encourages **mental and physical wellness** through regular checkups.  
 Creates a private, hospital‑like environment
 
 ## 🌍 Vision
-Medicare Campus is more than just an app — it’s a movement to prioritize student health. By combining technology with compassion, we aim to make healthcare accessible, personalized, and stigma‑free for every student.
+Mindcare Student Health is more than just an app — it’s a movement to prioritize student health. By combining technology with compassion, we aim to make healthcare accessible, personalized, and stigma‑free for every student.
